@@ -14,12 +14,9 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+Several rising megastars could justify throwing their names, their talents, their achievements into the conversation. Erling Haaland and Kylian Mbappe were seen by many as undisputed pretenders to the throne prior to the emergence of Jude Bellingham and the continued growth of several established names.
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+This list is based on more than just current form. We have taken into account domestic and international achievements as well as various stats and figures from this season and recent, prior campaigns to build a picture of the current best players in world football.
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
